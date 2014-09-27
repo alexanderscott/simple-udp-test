@@ -9,8 +9,8 @@ simple-udp-test
 
 ## Usage
 
-
-  Usage: simple-udp-test [options]
+```  
+ $ simple-udp-test [options]
 
   Options:
 
@@ -21,7 +21,7 @@ simple-udp-test
     -p, --port [port]           UDP port to listen on [8127]
     -h, --host [host]           UDP host to send to [localhost]
     -r, --retry [milliseconds]  Retry interval [3000]
-
+```
 
 
 ## License
