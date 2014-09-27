@@ -4,7 +4,7 @@ simple-udp-test
 ## Installation
 
 
-    $ npm install commander
+    $ npm install -g simple-udp-test
 
 
 ## Usage
