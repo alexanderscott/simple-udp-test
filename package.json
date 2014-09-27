@@ -1,0 +1,13 @@
+{
+    "name": "simple-udp-test",
+    "author": "Alex Ehrnschwender <alex@crunchdevelopment.com>",
+    "version": "0.1.0",
+    "description": "Simple UDP client and server components for testing transmission",
+    "main": "index",
+    "repository": { "type": "git", "url": "https://github.com/alexanderscott/simple-udp-test.git" },
+    "engines": { "node": ">= 0.6.x" },
+    "files": ["index.js"],
+    "dependencies": {
+        "commander": "^2.3.0"
+    }
+}
