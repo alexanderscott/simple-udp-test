@@ -44,7 +44,7 @@ if(program.server){
     });
 
     server.on("close", function () {
-      console.log("udp-receiver closed");
+      console.log("[UDP-CLIENT] Closing");
       process.exit(0);
     });
 
