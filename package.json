@@ -1,13 +1,13 @@
 {
     "name": "simple-udp-test",
     "author": "Alex Ehrnschwender <alex@crunchdevelopment.com> (http://alexehrnschwender.com)",
-    "version": "0.1.5",
+    "version": "0.1.6",
     "keywords": "udp, udp client, udp server",
     "description": "Simple UDP client and server components for testing transmission",
     "main": "index",
+    "private": false,
     "repository": { "type": "git", "url": "https://github.com/alexanderscott/simple-udp-test.git" },
     "engines": { "node": ">= 0.8.x" },
-    "files": ["index.js"],
     "bin" : {
         "simple-udp-test": "./bin/simple-udp-test"
     },
