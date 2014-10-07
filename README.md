@@ -1,5 +1,8 @@
 simple-udp-test
 ==================
+Simple UDP client and server components for testing remote UDP transmission.
+
+[![NPM](https://nodei.co/npm/simple-udp-test.png?downloads=true)](https://nodei.co/npm/simple-udp-test/)
 
 ## Installation
 
